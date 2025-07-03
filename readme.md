@@ -83,7 +83,8 @@ words = mnemo.generate(strength=128)  # 生成12词助记词
 
 ## 使用方法
 
-``` ![img.png](img.png)
+``` ![image](https://github.com/user-attachments/assets/785a7434-f345-4ccc-9ce5-d252ba985a15)
+
 
 ### 程序输出示例
 ```
