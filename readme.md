@@ -1,5 +1,5 @@
 # 多链助记词碰撞批量余额查询工具
-
+### 如有定制需求,可联系 telegram: @Sylvan_Lex
 ## 概述
 
 这是一个多链加密货币钱包助记词暴力破解工具，支持 Bitcoin (BTC)、Ethereum (ETH)、Binance Smart Chain (BNB) 和 Solana (SOL) 四条主要区块链。该工具通过生成随机助记词，派生对应的钱包地址，并查询这些地址的余额来寻找有资金的钱包。
